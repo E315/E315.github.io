@@ -27,6 +27,9 @@ No projects assigned yet.
 
 [autograder.sice.indiana.edu](https://autograder.sice.indiana.edu)
 
+Note: This only works _on campus_.  If you are not on campus, please use a VPN
+client to connect to the IU network.  
+
 ## Course Schedule
 
 {::nomarkdown}

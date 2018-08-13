@@ -2,12 +2,6 @@
 
 Fall 2018
 
-## Instructor
-
-Andrew Lukefahr  
-lukefahr@iu.edu  
-2032 Luddy Hall
-
 ## Syllabus
 
 The syllabus covers many of the details of the class and is considered required

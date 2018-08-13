@@ -55,7 +55,7 @@ This is the tentative schedule for this semester.
 
 {::nomarkdown}
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShqnSsP2jnbVbwGjV50bc-l8Ot-gE98R74PrO3neJ9GRTTYZpw61N7qLe2CZ-2GAy-QLeQqLaFkhOF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="400" height="800">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShqnSsP2jnbVbwGjV50bc-l8Ot-gE98R74PrO3neJ9GRTTYZpw61N7qLe2CZ-2GAy-QLeQqLaFkhOF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="900">
 </iframe>
 
 {:/}

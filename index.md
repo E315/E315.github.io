@@ -47,7 +47,9 @@ Note that for security reasons, the autograder website is only accessible from w
 
 ## Projects
 
-No projects have been assigned yet!
+[P0: Vivado
+Tutorial](https://docs.google.com/document/d/e/2PACX-1vTFs5damCubkKJ8IMnJnYjyeaS9B_t-tUjOw_3ol77GBCl77m-IzO_8RyAZxC-MrU_bMftUPsFtmfyX/pub)
+
 
 ## Course Schedule
 

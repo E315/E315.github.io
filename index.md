@@ -4,15 +4,17 @@ Fall 2018
 
 ## Quick Links
 
-### [Syllabus Link](https://docs.google.com/document/d/e/2PACX-1vT7TNV4EW2wFGcmBubDebvns7ZI7QVURaFrLkGgaNw9PKo-o29OirHDP5riQ4OXBM39IEjF6rFc4_Di/pub)
+### [Syllabus](https://docs.google.com/document/d/e/2PACX-1vT7TNV4EW2wFGcmBubDebvns7ZI7QVURaFrLkGgaNw9PKo-o29OirHDP5riQ4OXBM39IEjF6rFc4_Di/pub)
 
-### [Canvas Link](https://iu.instructure.com/courses/1737693)
+### [Canvas](https://iu.instructure.com/courses/1737693)
+_*(Registered students only)*_
 
-### [Google Drive Link](https://drive.google.com/drive/folders/1D1-HrIt-PcKSHfEDEsPc7CJWWazd_74l?usp=sharing)
+### [Google Drive](https://drive.google.com/drive/folders/1D1-HrIt-PcKSHfEDEsPc7CJWWazd_74l?usp=sharing)
 
-### [Piazza Link](https://piazza.com/class/jkih6n5kn6c1xh)
+### [Piazza](https://piazza.com/class/jkih6n5kn6c1xh)
 
-### [Autograder Link](https://autograder.sice.indiana.edu)
+### [Autograder ](https://autograder.sice.indiana.edu) 
+_*(Only accessible within IU or via a VPN)*_
 
 ## Projects
 

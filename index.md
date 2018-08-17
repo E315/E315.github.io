@@ -50,6 +50,8 @@ Note that for security reasons, the autograder website is only accessible from w
 [P0: Vivado
 Tutorial](https://docs.google.com/document/d/e/2PACX-1vTFs5damCubkKJ8IMnJnYjyeaS9B_t-tUjOw_3ol77GBCl77m-IzO_8RyAZxC-MrU_bMftUPsFtmfyX/pub)
 
+[P1: Logic
+Gates](https://docs.google.com/document/d/e/2PACX-1vQUCst5t_XMw0JDWeCxtTcqQeD-h1-1fRLMyktVMvHsM4RMcXhGWfyogOFnfcJHiqdToOj7C-SnxN6Q/pub)
 
 ## Course Schedule
 

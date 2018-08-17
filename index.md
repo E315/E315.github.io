@@ -2,6 +2,8 @@
 
 Fall 2018
 
+This course provides a strong foundation for modern digital system design using hardware description languages. We start with basics of digital electronics and learn how digital gates are used to build large digital systems. We will practice modern digital system design by using state of the art software tools and implementation of the digital systems on a programmable hardware platform.  At the end of the course, students will be familiar with modern approach for designing digital systems, using hardware description languages along with an appropriate methodology.
+
 ## Quick Links
 
 ### [Syllabus](https://docs.google.com/document/d/e/2PACX-1vT7TNV4EW2wFGcmBubDebvns7ZI7QVURaFrLkGgaNw9PKo-o29OirHDP5riQ4OXBM39IEjF6rFc4_Di/pub)

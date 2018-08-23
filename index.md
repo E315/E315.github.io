@@ -24,6 +24,8 @@ Tutorial](https://docs.google.com/document/d/e/2PACX-1vTFs5damCubkKJ8IMnJnYjyeaS
 [P1: Logic
 Gates](https://docs.google.com/document/d/e/2PACX-1vQUCst5t_XMw0JDWeCxtTcqQeD-h1-1fRLMyktVMvHsM4RMcXhGWfyogOFnfcJHiqdToOj7C-SnxN6Q/pub)
 
+[P2: Demultiplexer](https://docs.google.com/document/d/e/2PACX-1vTPuonnrYkpvwFXx2Jxz2cCKSGD1dZ9yNDOoUmWRW-Xi-jQFzLgXkj4WVUg_bQd_nBuK0aODENEVJis/pub)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.

@@ -26,6 +26,8 @@ Gates](https://docs.google.com/document/d/e/2PACX-1vQUCst5t_XMw0JDWeCxtTcqQeD-h1
 
 [P2: Demultiplexer](https://docs.google.com/document/d/e/2PACX-1vTPuonnrYkpvwFXx2Jxz2cCKSGD1dZ9yNDOoUmWRW-Xi-jQFzLgXkj4WVUg_bQd_nBuK0aODENEVJis/pub)
 
+[P3: Hybrid Adder](https://docs.google.com/document/d/e/2PACX-1vSwLqO4GxHuc1DxlTa3GHWTt9K_hoZhrPUtz7o4IhN1lwFx8o1IskI-xJGVGp9kfyzFKLDwRZsNEWez/pub)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.

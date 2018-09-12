@@ -28,6 +28,8 @@ Gates](https://docs.google.com/document/d/e/2PACX-1vQUCst5t_XMw0JDWeCxtTcqQeD-h1
 
 [P3: Hybrid Adder](https://docs.google.com/document/d/e/2PACX-1vSwLqO4GxHuc1DxlTa3GHWTt9K_hoZhrPUtz7o4IhN1lwFx8o1IskI-xJGVGp9kfyzFKLDwRZsNEWez/pub)
 
+[P4: ALU](https://docs.google.com/document/u/1/d/e/2PACX-1vTGEwh0EkXo1ruAKuMu96beDntvxAirFoOzI7ZDiZn8vU3IF1N3ph4zYcxP6NYkg7e1fgMy758R8GrI/pub)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.

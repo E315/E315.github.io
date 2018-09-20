@@ -30,6 +30,10 @@ Gates](https://docs.google.com/document/d/e/2PACX-1vQUCst5t_XMw0JDWeCxtTcqQeD-h1
 
 [P4: ALU](https://docs.google.com/document/u/1/d/e/2PACX-1vTGEwh0EkXo1ruAKuMu96beDntvxAirFoOzI7ZDiZn8vU3IF1N3ph4zYcxP6NYkg7e1fgMy758R8GrI/pub)
 
+[P5:  Elevator
+Controller](https://docs.google.com/document/d/e/2PACX-1vTZt6cFONjDh8_9yw4y1p8qAxU92-97p0h8Guc-Ohd4klwuOIKBOs0UCKKDAHjMVwnX8JRg2LyqzuJr/pub)
+
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.

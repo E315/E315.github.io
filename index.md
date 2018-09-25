@@ -12,7 +12,7 @@ This course provides a strong foundation for modern digital system design using 
 
 ### [Google Drive](https://drive.google.com/drive/folders/1D1-HrIt-PcKSHfEDEsPc7CJWWazd_74l?usp=sharing)
 
-### [Piazza](https://piazza.com/class/jkih6n5kn6c1xh)
+### [Piazza](https://piazza.com/class/jkih6n5kn6c1xh/home)
 
 ### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
 

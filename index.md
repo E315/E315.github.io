@@ -33,6 +33,8 @@ Gates](https://docs.google.com/document/d/e/2PACX-1vQUCst5t_XMw0JDWeCxtTcqQeD-h1
 [P5:  Elevator
 Controller](https://docs.google.com/document/d/e/2PACX-1vTZt6cFONjDh8_9yw4y1p8qAxU92-97p0h8Guc-Ohd4klwuOIKBOs0UCKKDAHjMVwnX8JRg2LyqzuJr/pub)
 
+[P6:
+UART](https://docs.google.com/document/d/e/2PACX-1vR03o-UzZ1Ib6Yp7zjFxMSXcqzPlVhcJ1RhvCkevGpQ4XqxUEsfTENVe8r1W1I5E1_5VuLNq8RaNFRE/pub)
 
 ## Course Schedule
 

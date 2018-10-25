@@ -36,7 +36,7 @@ Controller](https://docs.google.com/document/d/e/2PACX-1vTZt6cFONjDh8_9yw4y1p8qA
 [P6:
 UART](https://docs.google.com/document/d/e/2PACX-1vR03o-UzZ1Ib6Yp7zjFxMSXcqzPlVhcJ1RhvCkevGpQ4XqxUEsfTENVe8r1W1I5E1_5VuLNq8RaNFRE/pub)
 
-[P7: Postfix Calculator](https://docs.google.com/document/u/1/d/e/2PACX-1vTcp33dg7qalSU9MLHfu28Ltn0f-GkqdKuDgfr8edPw_3-pA_ekWQYs7hOvCZpVl8jIqrH7sJfMO0cR/pub)
+[P7: Postfix Calculator](https://docs.google.com/document/d/1d8ejHpjp8rcXWzu9sVrqFaDbADt9Ox5t6UrW1iTXt2k/edit#heading=h.tjrzysxv6vji)
 
 ## Course Schedule
 
